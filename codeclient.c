@@ -7,6 +7,7 @@
 #include <sys/types.h>
 #define MAX 200
 
+
 void func(int sockfd){
 	char buff[MAX];
 	int n;
